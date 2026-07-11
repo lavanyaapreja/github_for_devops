@@ -1,0 +1,7 @@
+git init --> to initialize git repo
+git add --> to track file
+git rm cache file name --> to remove file from track
+git commit --> to commit the file
+git remote set-url origin https://token@github_link
+git push origin master
+git pull origin master 
