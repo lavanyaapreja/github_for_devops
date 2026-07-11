@@ -5,3 +5,9 @@ git commit --> to commit the file
 git remote set-url origin https://token@github_link
 git push origin master
 git pull origin master 
+
+git restore --staged --> Use when you accidentally staged a file and want to unstage it.
+git rm --cached -->Use when you want Git to stop tracking a file
+
+
+
